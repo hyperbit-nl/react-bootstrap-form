@@ -222,7 +222,7 @@ const getSectionControl = (propsGroup, propsControl, {type, ...props}, SectionHe
         didWarnImportReactDatetime = true;
       }
 
-      return null;
+      return {Content: null};
     }
 
     const {name, value, label, hiddenLabel, placeholder, disabled, readOnly, plaintext, size, dateFormat, timeFormat, locale, onChange, handleChange, isValid, isInvalid} = props;
@@ -307,7 +307,7 @@ const getSectionControl = (propsGroup, propsControl, {type, ...props}, SectionHe
           didWarnImportReactSelect = true;
         }
 
-        return null;
+        return {Content: null};
       }
 
       const {name, value, label, hiddenLabel, placeholder, disabled, isSearchable, isClearable, isMulti, isCreatable, noOptionsMessage, async, defaultOptions, cacheOptions, isValid, isInvalid, onChange, handleChange} = props;
