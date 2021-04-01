@@ -1,0 +1,994 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Form with array failure onSubmit 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <div
+        class="form-group"
+      >
+        <label
+          class="form-label"
+          for="data.0.number"
+          id="rbf_data.0.number_label"
+        >
+          Number
+        </label>
+        <input
+          class="form-control is-valid"
+          id="data.0.number"
+          type="number"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+      <div
+        class="form-group"
+      >
+        <label
+          class="form-label"
+          for="data.1.number"
+          id="rbf_data.1.number_label"
+        >
+          Number
+        </label>
+        <input
+          class="form-control is-valid"
+          id="data.1.number"
+          type="number"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+      <button
+        class="mb-3 btn btn-primary"
+        type="button"
+      >
+        Add
+      </button>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+      <span
+        class="ml-2 rbf-text-red"
+        role="status"
+      >
+        Error
+      </span>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders Form with custom success onSubmit 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <label
+        class="form-label"
+        for="number"
+        id="rbf_number_label"
+      >
+        Number
+      </label>
+      <input
+        class="form-control"
+        id="number"
+        type="number"
+        value=""
+      />
+      <div
+        class="invalid-feedback"
+      />
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+      <span
+        class="ml-2 rbf-text-green"
+        role="status"
+      >
+        OK
+      </span>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders Form with default failure onSubmit 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <label
+        class="form-label"
+        for="number"
+        id="rbf_number_label"
+      >
+        Number
+      </label>
+      <input
+        class="form-control is-valid"
+        id="number"
+        type="number"
+        value=""
+      />
+      <div
+        class="invalid-feedback"
+      />
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+      <span
+        class="ml-2 rbf-text-red"
+        role="status"
+      >
+        Error
+      </span>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders Form with default success onSubmit 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <label
+        class="form-label"
+        for="number"
+        id="rbf_number_label"
+      >
+        Number
+      </label>
+      <input
+        class="form-control"
+        id="number"
+        type="number"
+        value=""
+      />
+      <div
+        class="invalid-feedback"
+      />
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+      <span
+        class="ml-2 rbf-text-green"
+        role="status"
+      >
+        Success
+      </span>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders Form with field failure onSubmit 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <label
+        class="form-label"
+        for="number"
+        id="rbf_number_label"
+      >
+        Number
+      </label>
+      <input
+        class="form-control is-invalid"
+        id="number"
+        type="number"
+        value=""
+      />
+      <div
+        class="invalid-feedback"
+      >
+        Field wrong
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+      <span
+        class="ml-2 rbf-text-red"
+        role="status"
+      >
+        Error
+      </span>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders Form with one array Field with one text Field 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <div
+        class="form-group"
+      >
+        <label
+          class="form-label"
+          for="array.0.text"
+          id="rbf_array.0.text_label"
+        >
+          Text
+        </label>
+        <input
+          class="form-control"
+          id="array.0.text"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+      <button
+        class="mb-3 btn btn-primary"
+        type="button"
+      >
+        Add
+      </button>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders Form with one array Field with one text Field and one initialValues 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <div
+        class="form-group"
+      >
+        <label
+          class="form-label"
+          for="array.0.text"
+          id="rbf_array.0.text_label"
+        >
+          Text
+        </label>
+        <input
+          class="form-control"
+          id="array.0.text"
+          type="text"
+          value="Text"
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+      <button
+        class="mb-3 btn btn-primary"
+        type="button"
+      >
+        Add
+      </button>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders Form with one number Field with custom error 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <label
+        class="form-label"
+        for="number"
+        id="rbf_number_label"
+      >
+        Number
+      </label>
+      <input
+        class="form-control is-invalid"
+        id="number"
+        min="1"
+        type="number"
+        value="0"
+      />
+      <div
+        class="invalid-feedback"
+      >
+        number must be greater than or equal to 1
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+      <span
+        class="ml-2 rbf-text-red"
+        role="status"
+      >
+        Not Ok
+      </span>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders Form with one number Field with error 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <label
+        class="form-label"
+        for="number"
+        id="rbf_number_label"
+      >
+        Number
+      </label>
+      <input
+        class="form-control is-invalid"
+        id="number"
+        min="1"
+        type="number"
+        value="0"
+      />
+      <div
+        class="invalid-feedback"
+      >
+        number must be greater than or equal to 1
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+      <span
+        class="ml-2 rbf-text-red"
+        role="status"
+      >
+        Error
+      </span>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders Form with one number Field with success 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <label
+        class="form-label"
+        for="number"
+        id="rbf_number_label"
+      >
+        Number
+      </label>
+      <input
+        class="form-control"
+        id="number"
+        min="1"
+        type="number"
+        value="1"
+      />
+      <div
+        class="invalid-feedback"
+      />
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+      <span
+        class="ml-2 rbf-text-green"
+        role="status"
+      >
+        Success
+      </span>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders Form with one text Field 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <label
+        class="form-label"
+        for="text"
+        id="rbf_text_label"
+      >
+        Text
+      </label>
+      <input
+        class="form-control"
+        id="text"
+        type="text"
+        value=""
+      />
+      <div
+        class="invalid-feedback"
+      />
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders Form with one text Field and one initialValues 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <label
+        class="form-label"
+        for="text"
+        id="rbf_text_label"
+      >
+        Text
+      </label>
+      <input
+        class="form-control"
+        id="text"
+        type="text"
+        value="Text"
+      />
+      <div
+        class="invalid-feedback"
+      />
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders Form with one text Field with defaultValue  1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <label
+        class="form-label"
+        for="text"
+        id="rbf_text_label"
+      >
+        Text
+      </label>
+      <input
+        class="form-control"
+        id="text"
+        type="text"
+        value="Default value"
+      />
+      <div
+        class="invalid-feedback"
+      />
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders Form with one text Field with defaultValue and one initialValues 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <label
+        class="form-label"
+        for="text"
+        id="rbf_text_label"
+      >
+        Text
+      </label>
+      <input
+        class="form-control"
+        id="text"
+        type="text"
+        value="Text"
+      />
+      <div
+        class="invalid-feedback"
+      />
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders Form with one text Field with value and one initialValues 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <label
+        class="form-label"
+        for="text"
+        id="rbf_text_label"
+      >
+        Text
+      </label>
+      <input
+        class="form-control"
+        id="text"
+        type="text"
+        value="Value"
+      />
+      <div
+        class="invalid-feedback"
+      />
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders Form with server and field failure onSubmit 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <label
+        class="form-label"
+        for="number"
+        id="rbf_number_label"
+      >
+        Number
+      </label>
+      <input
+        class="form-control is-invalid"
+        id="number"
+        type="number"
+        value=""
+      />
+      <div
+        class="invalid-feedback"
+      >
+        Field wrong
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+      <span
+        class="ml-2 rbf-text-red"
+        role="status"
+      >
+        Not Ok
+      </span>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders Form with server failure onSubmit 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <label
+        class="form-label"
+        for="number"
+        id="rbf_number_label"
+      >
+        Number
+      </label>
+      <input
+        class="form-control is-valid"
+        id="number"
+        type="number"
+        value=""
+      />
+      <div
+        class="invalid-feedback"
+      />
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+      <span
+        class="ml-2 rbf-text-red"
+        role="status"
+      >
+        Not Ok
+      </span>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders Form with two text Fields 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <label
+        class="form-label"
+        for="text_1"
+        id="rbf_text_1_label"
+      >
+        Text 1
+      </label>
+      <input
+        class="form-control"
+        id="text_1"
+        type="text"
+        value=""
+      />
+      <div
+        class="invalid-feedback"
+      />
+    </div>
+    <div
+      class="form-group"
+    >
+      <label
+        class="form-label"
+        for="text_2"
+        id="rbf_text_2_label"
+      >
+        Text 2
+      </label>
+      <input
+        class="form-control"
+        id="text_2"
+        type="text"
+        value=""
+      />
+      <div
+        class="invalid-feedback"
+      />
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders Form with two text Fields and one initialValues 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <label
+        class="form-label"
+        for="text_1"
+        id="rbf_text_1_label"
+      >
+        Text 1
+      </label>
+      <input
+        class="form-control"
+        id="text_1"
+        type="text"
+        value="Text 1"
+      />
+      <div
+        class="invalid-feedback"
+      />
+    </div>
+    <div
+      class="form-group"
+    >
+      <label
+        class="form-label"
+        for="text_2"
+        id="rbf_text_2_label"
+      >
+        Text 2
+      </label>
+      <input
+        class="form-control"
+        id="text_2"
+        type="text"
+        value=""
+      />
+      <div
+        class="invalid-feedback"
+      />
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders Form with two text Fields and two initialValues 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <label
+        class="form-label"
+        for="text_1"
+        id="rbf_text_1_label"
+      >
+        Text 1
+      </label>
+      <input
+        class="form-control"
+        id="text_1"
+        type="text"
+        value="Text 1"
+      />
+      <div
+        class="invalid-feedback"
+      />
+    </div>
+    <div
+      class="form-group"
+    >
+      <label
+        class="form-label"
+        for="text_2"
+        id="rbf_text_2_label"
+      >
+        Text 2
+      </label>
+      <input
+        class="form-control"
+        id="text_2"
+        type="text"
+        value="Text 2"
+      />
+      <div
+        class="invalid-feedback"
+      />
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders default Form 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders default Form with JSX as customSubmit 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <button
+      class="btn btn-primary"
+      type="submit"
+    >
+      Send
+    </button>
+  </form>
+</div>
+`;
+
+exports[`renders default Form with string as customSubmit 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Custom Submit
+      </button>
+    </div>
+  </form>
+</div>
+`;

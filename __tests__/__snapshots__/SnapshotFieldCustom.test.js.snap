@@ -1,0 +1,259 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Array with custom Field 1`] = `<div />`;
+
+exports[`renders Array with custom Field and error 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <label
+        for="array.0.name"
+      >
+        Name
+      </label>
+      <br />
+      <input
+        id="array.0.name"
+        type="text"
+        value=""
+      />
+      <br />
+      <div>
+        array[0].name is a required field
+      </div>
+      <button
+        class="mb-3 btn btn-primary"
+        type="button"
+      >
+        Add
+      </button>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+      <span
+        class="ml-2 rbf-text-red"
+        role="status"
+      >
+        Error
+      </span>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders Array with custom Field and success 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <label
+        for="array.0.name"
+      >
+        Name
+      </label>
+      <br />
+      <input
+        id="array.0.name"
+        type="text"
+        value=""
+      />
+      <br />
+      <button
+        class="mb-3 btn btn-primary"
+        type="button"
+      >
+        Add
+      </button>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+      <span
+        class="ml-2 rbf-text-green"
+        role="status"
+      >
+        Success
+      </span>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders Group with custom Field 1`] = `<div />`;
+
+exports[`renders custom Field 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <label
+      for="text"
+    >
+      Text
+    </label>
+    <br />
+    <input
+      id="text"
+      type="text"
+      value=""
+    />
+    <br />
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders custom Field with defaultValue 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <label
+      for="text"
+    >
+      Text
+    </label>
+    <br />
+    <input
+      id="text"
+      type="text"
+      value="Default value"
+    />
+    <br />
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders custom Field with error 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <label
+      for="text"
+    >
+      Text
+    </label>
+    <br />
+    <input
+      id="text"
+      type="text"
+      value=""
+    />
+    <br />
+    <div>
+      text is a required field
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+      <span
+        class="ml-2 rbf-text-red"
+        role="status"
+      >
+        Error
+      </span>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders custom Field with initialValues 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <label
+      for="text"
+    >
+      Text
+    </label>
+    <br />
+    <input
+      id="text"
+      type="text"
+      value="Initial value"
+    />
+    <br />
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders custom Field with value 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <label
+      for="text"
+    >
+      Text
+    </label>
+    <br />
+    <input
+      id="text"
+      type="text"
+      value="Value"
+    />
+    <br />
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;

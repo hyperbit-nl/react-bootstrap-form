@@ -1,0 +1,2015 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders one text Col 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="form-group col"
+      >
+        <label
+          class="form-label"
+          for="text"
+          id="rbf_text_label"
+        >
+          Text
+        </label>
+        <input
+          class="form-control"
+          id="text"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders one text Col with default lg 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="form-group col-lg"
+      >
+        <label
+          class="form-label"
+          for="text"
+          id="rbf_text_label"
+        >
+          Text
+        </label>
+        <input
+          class="form-control"
+          id="text"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders one text Col with default md 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="form-group col-md"
+      >
+        <label
+          class="form-label"
+          for="text"
+          id="rbf_text_label"
+        >
+          Text
+        </label>
+        <input
+          class="form-control"
+          id="text"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders one text Col with default sm 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="form-group col-sm"
+      >
+        <label
+          class="form-label"
+          for="text"
+          id="rbf_text_label"
+        >
+          Text
+        </label>
+        <input
+          class="form-control"
+          id="text"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders one text Col with default xl 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="form-group col-xl"
+      >
+        <label
+          class="form-label"
+          for="text"
+          id="rbf_text_label"
+        >
+          Text
+        </label>
+        <input
+          class="form-control"
+          id="text"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders one text Col with default xs 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="form-group col"
+      >
+        <label
+          class="form-label"
+          for="text"
+          id="rbf_text_label"
+        >
+          Text
+        </label>
+        <input
+          class="form-control"
+          id="text"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders one text Col with default xs and sm 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="form-group col-sm col"
+      >
+        <label
+          class="form-label"
+          for="text"
+          id="rbf_text_label"
+        >
+          Text
+        </label>
+        <input
+          class="form-control"
+          id="text"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders one text Col with xs with 1 for offset 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="form-group col offset-1"
+      >
+        <label
+          class="form-label"
+          for="text"
+          id="rbf_text_label"
+        >
+          Text
+        </label>
+        <input
+          class="form-control"
+          id="text"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders one text Col with xs with 1 for order 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="form-group col order-1"
+      >
+        <label
+          class="form-label"
+          for="text"
+          id="rbf_text_label"
+        >
+          Text
+        </label>
+        <input
+          class="form-control"
+          id="text"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders one text Col with xs with 1 for span 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="form-group col-1"
+      >
+        <label
+          class="form-label"
+          for="text"
+          id="rbf_text_label"
+        >
+          Text
+        </label>
+        <input
+          class="form-control"
+          id="text"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders one text Col with xs with auto for span 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="form-group col-auto"
+      >
+        <label
+          class="form-label"
+          for="text"
+          id="rbf_text_label"
+        >
+          Text
+        </label>
+        <input
+          class="form-control"
+          id="text"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders one text Col with xs with first for order 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="form-group col order-first"
+      >
+        <label
+          class="form-label"
+          for="text"
+          id="rbf_text_label"
+        >
+          Text
+        </label>
+        <input
+          class="form-control"
+          id="text"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders one text Col with xs with object 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="form-group col order-last offset-1"
+      >
+        <label
+          class="form-label"
+          for="text"
+          id="rbf_text_label"
+        >
+          Text
+        </label>
+        <input
+          class="form-control"
+          id="text"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders one text Row 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group row"
+    >
+      <label
+        class="form-label col-form-label col"
+        for="text"
+        id="rbf_text_label"
+      >
+        Text
+      </label>
+      <div
+        class="col"
+      >
+        <input
+          class="form-control"
+          id="text"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders one text Row with hiddenLabel 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group row"
+    >
+      <div
+        class="col-xl col-lg col-md col-sm col"
+      >
+        <input
+          aria-label="Text"
+          class="form-control"
+          id="text"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders one text Row with lgLabel and lgControl 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group row"
+    >
+      <label
+        class="form-label col-form-label col-lg-1"
+        for="text"
+        id="rbf_text_label"
+      >
+        Text
+      </label>
+      <div
+        class="col-lg-1"
+      >
+        <input
+          class="form-control"
+          id="text"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders one text Row with mdLabel and mdControl 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group row"
+    >
+      <label
+        class="form-label col-form-label col-md-1"
+        for="text"
+        id="rbf_text_label"
+      >
+        Text
+      </label>
+      <div
+        class="col-md-1"
+      >
+        <input
+          class="form-control"
+          id="text"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders one text Row with smLabel and smControl 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group row"
+    >
+      <label
+        class="form-label col-form-label col-sm-1"
+        for="text"
+        id="rbf_text_label"
+      >
+        Text
+      </label>
+      <div
+        class="col-sm-1"
+      >
+        <input
+          class="form-control"
+          id="text"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders one text Row with xlLabel and xlControl 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group row"
+    >
+      <label
+        class="form-label col-form-label col-xl-1"
+        for="text"
+        id="rbf_text_label"
+      >
+        Text
+      </label>
+      <div
+        class="col-xl-1"
+      >
+        <input
+          class="form-control"
+          id="text"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders one text Row with xsControl 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group row"
+    >
+      <label
+        class="form-label col-form-label col"
+        for="text"
+        id="rbf_text_label"
+      >
+        Text
+      </label>
+      <div
+        class="col-1"
+      >
+        <input
+          class="form-control"
+          id="text"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders one text Row with xsLabel 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group row"
+    >
+      <label
+        class="form-label col-form-label col-1"
+        for="text"
+        id="rbf_text_label"
+      >
+        Text
+      </label>
+      <div
+        class="col"
+      >
+        <input
+          class="form-control"
+          id="text"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders one text Row with xsLabel and xsControl 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group row"
+    >
+      <label
+        class="form-label col-form-label col-1"
+        for="text"
+        id="rbf_text_label"
+      >
+        Text
+      </label>
+      <div
+        class="col-1"
+      >
+        <input
+          class="form-control"
+          id="text"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders two Col Arrays 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="form-group col-sm-1"
+      >
+        <button
+          class="mb-3 btn btn-primary"
+          type="button"
+        >
+          Add
+        </button>
+      </div>
+      <div
+        class="form-group col-sm-1"
+      >
+        <button
+          class="mb-3 btn btn-primary"
+          type="button"
+        >
+          Add
+        </button>
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders two Col Arrays with label 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="form-group col-sm-1"
+      >
+        <label
+          class="form-label"
+        >
+          Array 1
+        </label>
+        <button
+          class="mb-3 btn btn-primary"
+          type="button"
+        >
+          Add
+        </button>
+      </div>
+      <div
+        class="form-group col-sm-1"
+      >
+        <label
+          class="form-label"
+        >
+          Array 2
+        </label>
+        <button
+          class="mb-3 btn btn-primary"
+          type="button"
+        >
+          Add
+        </button>
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders two Col Groups 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="row"
+    >
+      <div
+        aria-labelledby="rbf_group_1_label"
+        class="form-group col-sm-1"
+        id="group_1"
+        role="group"
+      >
+        <label
+          class="rbf-group  form-label"
+          id="rbf_group_1_label"
+        >
+          Group 1
+        </label>
+      </div>
+      <div
+        aria-labelledby="rbf_group_2_label"
+        class="form-group col-sm-1"
+        id="group_2"
+        role="group"
+      >
+        <label
+          class="rbf-group  form-label"
+          id="rbf_group_2_label"
+        >
+          Group 2
+        </label>
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders two Col Groups with hiddenLabel 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="row"
+    >
+      <div
+        aria-label="Group 1"
+        class="form-group col-sm-1"
+        id="group_1"
+        role="group"
+      />
+      <div
+        aria-label="Group 2"
+        class="form-group col-sm-1"
+        id="group_2"
+        role="group"
+      />
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders two Row Arrays 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group row"
+    >
+      <div
+        class="col-xl-1 col-lg col-md col-sm col offset-xl-1"
+      >
+        <button
+          class="mb-3 btn btn-primary"
+          type="button"
+        >
+          Add
+        </button>
+      </div>
+    </div>
+    <div
+      class="form-group row"
+    >
+      <div
+        class="col-xl-1 col-lg col-md col-sm col offset-xl-1"
+      >
+        <button
+          class="mb-3 btn btn-primary"
+          type="button"
+        >
+          Add
+        </button>
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders two Row Arrays with label 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group row"
+    >
+      <label
+        class="form-label col-form-label col-xl-1"
+      >
+        Array 1
+      </label>
+      <div
+        class="col-xl-1"
+      >
+        <button
+          class="mb-3 btn btn-primary"
+          type="button"
+        >
+          Add
+        </button>
+      </div>
+    </div>
+    <div
+      class="form-group row"
+    >
+      <label
+        class="form-label col-form-label col-xl-1"
+      >
+        Array 2
+      </label>
+      <div
+        class="col-xl-1"
+      >
+        <button
+          class="mb-3 btn btn-primary"
+          type="button"
+        >
+          Add
+        </button>
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders two Row Groups 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      aria-labelledby="rbf_group_1_label"
+      class="form-group row"
+      id="group_1"
+      role="group"
+    >
+      <label
+        class="rbf-group form-label col-form-label col-xl-1"
+        id="rbf_group_1_label"
+      >
+        Group 1
+      </label>
+      <div
+        class="col-xl-1"
+      />
+    </div>
+    <div
+      aria-labelledby="rbf_group_2_label"
+      class="form-group row"
+      id="group_2"
+      role="group"
+    >
+      <label
+        class="rbf-group form-label col-form-label col-xl-1"
+        id="rbf_group_2_label"
+      >
+        Group 2
+      </label>
+      <div
+        class="col-xl-1"
+      />
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders two Row Groups with hiddenLabel 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      aria-label="Group 1"
+      class="form-group row"
+      id="group_1"
+      role="group"
+    >
+      <div
+        class="col-xl-1 col-lg col-md col-sm col offset-xl-1"
+      />
+    </div>
+    <div
+      aria-label="Group 2"
+      class="form-group row"
+      id="group_2"
+      role="group"
+    >
+      <div
+        class="col-xl-1 col-lg col-md col-sm col offset-xl-1"
+      />
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders two checkbox Cols 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="form-group col-sm-1"
+      >
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="checkbox_1"
+            type="checkbox"
+          />
+          <label
+            class="form-check-label"
+            for="checkbox_1"
+            id="rbf_checkbox_1_label"
+          >
+            Checkbox 1
+          </label>
+          <div
+            class="invalid-feedback"
+          />
+        </div>
+      </div>
+      <div
+        class="form-group col-sm-1"
+      >
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="checkbox_2"
+            type="checkbox"
+          />
+          <label
+            class="form-check-label"
+            for="checkbox_2"
+            id="rbf_checkbox_2_label"
+          >
+            Checkbox 2
+          </label>
+          <div
+            class="invalid-feedback"
+          />
+        </div>
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders two checkbox Cols 2`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group row"
+    >
+      <div
+        class="col-xl-1 col-lg col-md col-sm col offset-xl-1"
+      >
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="checkbox_1"
+            type="checkbox"
+          />
+          <label
+            class="form-check-label"
+            for="checkbox_1"
+            id="rbf_checkbox_1_label"
+          >
+            Checkbox 1
+          </label>
+          <div
+            class="invalid-feedback"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="form-group row"
+    >
+      <div
+        class="col-xl-1 col-lg col-md col-sm col offset-xl-1"
+      >
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="checkbox_2"
+            type="checkbox"
+          />
+          <label
+            class="form-check-label"
+            for="checkbox_2"
+            id="rbf_checkbox_2_label"
+          >
+            Checkbox 2
+          </label>
+          <div
+            class="invalid-feedback"
+          />
+        </div>
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders two file Cols 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="form-group col-sm-1"
+      >
+        <div
+          class="custom custom-file"
+        >
+          <input
+            class="custom-file-input"
+            id="file_1"
+            type="file"
+          />
+          <label
+            class="custom-file-label"
+            for="file_1"
+          >
+            File 1
+          </label>
+          <div
+            class="invalid-feedback"
+          />
+        </div>
+      </div>
+      <div
+        class="form-group col-sm-1"
+      >
+        <div
+          class="custom custom-file"
+        >
+          <input
+            class="custom-file-input"
+            id="file_2"
+            type="file"
+          />
+          <label
+            class="custom-file-label"
+            for="file_2"
+          >
+            File 2
+          </label>
+          <div
+            class="invalid-feedback"
+          />
+        </div>
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders two file Rows 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group row"
+    >
+      <div
+        class="col-xl-1 col-lg col-md col-sm col offset-xl-1"
+      >
+        <div
+          class="custom custom-file"
+        >
+          <input
+            class="custom-file-input"
+            id="file_1"
+            type="file"
+          />
+          <label
+            class="custom-file-label"
+            for="file_1"
+          >
+            File 1
+          </label>
+          <div
+            class="invalid-feedback"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="form-group row"
+    >
+      <div
+        class="col-xl-1 col-lg col-md col-sm col offset-xl-1"
+      >
+        <div
+          class="custom custom-file"
+        >
+          <input
+            class="custom-file-input"
+            id="file_2"
+            type="file"
+          />
+          <label
+            class="custom-file-label"
+            for="file_2"
+          >
+            File 2
+          </label>
+          <div
+            class="invalid-feedback"
+          />
+        </div>
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders two radio Cols 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="row"
+    >
+      <div
+        aria-labelledby="rbf_radio_1_label"
+        class="form-group col-sm-1"
+        role="radiogroup"
+      >
+        <label
+          class="rbf-group  form-label"
+          for="radio_1"
+          id="rbf_radio_1_label"
+        >
+          Radio 1
+        </label>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="rbf_radio_1_0"
+            name="radio_1"
+            type="radio"
+          />
+          <label
+            class="form-check-label"
+            for="rbf_radio_1_0"
+          >
+            0
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="rbf_radio_1_1"
+            name="radio_1"
+            type="radio"
+          />
+          <label
+            class="form-check-label"
+            for="rbf_radio_1_1"
+          >
+            1
+          </label>
+        </div>
+        <input
+          class="form-control"
+          id="radio_1"
+          type="hidden"
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+      <div
+        aria-labelledby="rbf_radio_2_label"
+        class="form-group col-sm-1"
+        role="radiogroup"
+      >
+        <label
+          class="rbf-group  form-label"
+          for="radio_2"
+          id="rbf_radio_2_label"
+        >
+          Radio 2
+        </label>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="rbf_radio_2_0"
+            name="radio_2"
+            type="radio"
+          />
+          <label
+            class="form-check-label"
+            for="rbf_radio_2_0"
+          >
+            0
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="rbf_radio_2_1"
+            name="radio_2"
+            type="radio"
+          />
+          <label
+            class="form-check-label"
+            for="rbf_radio_2_1"
+          >
+            1
+          </label>
+        </div>
+        <input
+          class="form-control"
+          id="radio_2"
+          type="hidden"
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders two radio Rows 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      aria-labelledby="rbf_radio_1_label"
+      class="form-group row"
+      role="radiogroup"
+    >
+      <label
+        class="rbf-group form-label col-form-label col-xl-1"
+        for="radio_1"
+        id="rbf_radio_1_label"
+      >
+        Radio 1
+      </label>
+      <div
+        class="col-xl-1"
+      >
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="rbf_radio_1_0"
+            name="radio_1"
+            type="radio"
+          />
+          <label
+            class="form-check-label"
+            for="rbf_radio_1_0"
+          >
+            0
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="rbf_radio_1_1"
+            name="radio_1"
+            type="radio"
+          />
+          <label
+            class="form-check-label"
+            for="rbf_radio_1_1"
+          >
+            1
+          </label>
+        </div>
+        <input
+          class="form-control"
+          id="radio_1"
+          type="hidden"
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div
+      aria-labelledby="rbf_radio_2_label"
+      class="form-group row"
+      role="radiogroup"
+    >
+      <label
+        class="rbf-group form-label col-form-label col-xl-1"
+        for="radio_2"
+        id="rbf_radio_2_label"
+      >
+        Radio 2
+      </label>
+      <div
+        class="col-xl-1"
+      >
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="rbf_radio_2_0"
+            name="radio_2"
+            type="radio"
+          />
+          <label
+            class="form-check-label"
+            for="rbf_radio_2_0"
+          >
+            0
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="rbf_radio_2_1"
+            name="radio_2"
+            type="radio"
+          />
+          <label
+            class="form-check-label"
+            for="rbf_radio_2_1"
+          >
+            1
+          </label>
+        </div>
+        <input
+          class="form-control"
+          id="radio_2"
+          type="hidden"
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders two radio Rows with hiddelLabel 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      aria-labelledby="rbf_radio_1_label"
+      class="form-group row"
+      role="radiogroup"
+    >
+      <label
+        class="rbf-group form-label col-form-label col-xl-1"
+        for="radio_1"
+        id="rbf_radio_1_label"
+      >
+        Radio 1
+      </label>
+      <div
+        class="col-xl-1"
+      >
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="rbf_radio_1_0"
+            name="radio_1"
+            type="radio"
+          />
+          <label
+            class="form-check-label"
+            for="rbf_radio_1_0"
+          >
+            0
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="rbf_radio_1_1"
+            name="radio_1"
+            type="radio"
+          />
+          <label
+            class="form-check-label"
+            for="rbf_radio_1_1"
+          >
+            1
+          </label>
+        </div>
+        <input
+          class="form-control"
+          id="radio_1"
+          type="hidden"
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div
+      aria-labelledby="rbf_radio_2_label"
+      class="form-group row"
+      role="radiogroup"
+    >
+      <label
+        class="rbf-group form-label col-form-label col-xl-1"
+        for="radio_2"
+        id="rbf_radio_2_label"
+      >
+        Radio 2
+      </label>
+      <div
+        class="col-xl-1"
+      >
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="rbf_radio_2_0"
+            name="radio_2"
+            type="radio"
+          />
+          <label
+            class="form-check-label"
+            for="rbf_radio_2_0"
+          >
+            0
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="rbf_radio_2_1"
+            name="radio_2"
+            type="radio"
+          />
+          <label
+            class="form-check-label"
+            for="rbf_radio_2_1"
+          >
+            1
+          </label>
+        </div>
+        <input
+          class="form-control"
+          id="radio_2"
+          type="hidden"
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders two text Cols 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="form-group col-sm-1"
+      >
+        <label
+          class="form-label"
+          for="text_1"
+          id="rbf_text_1_label"
+        >
+          Text 1
+        </label>
+        <input
+          class="form-control"
+          id="text_1"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+      <div
+        class="form-group col-sm-1"
+      >
+        <label
+          class="form-label"
+          for="text_2"
+          id="rbf_text_2_label"
+        >
+          Text 2
+        </label>
+        <input
+          class="form-control"
+          id="text_2"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;

@@ -1,0 +1,368 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Array with one text Field 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <div
+        class="form-group"
+      >
+        <label
+          class="form-label"
+          for="array.0.text"
+          id="rbf_array.0.text_label"
+        >
+          Text
+        </label>
+        <input
+          class="form-control"
+          id="array.0.text"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+      <button
+        class="mb-3 btn btn-primary"
+        type="button"
+      >
+        Add
+      </button>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders Array with one text Field and 0 as initialSize 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <button
+        class="mb-3 btn btn-primary"
+        type="button"
+      >
+        Add
+      </button>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders Array with one text Field and 2 as initialSize 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <div
+        class="form-group"
+      >
+        <label
+          class="form-label"
+          for="array.0.text"
+          id="rbf_array.0.text_label"
+        >
+          Text
+        </label>
+        <input
+          class="form-control"
+          id="array.0.text"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+      <div
+        class="form-group"
+      >
+        <label
+          class="form-label"
+          for="array.1.text"
+          id="rbf_array.1.text_label"
+        >
+          Text
+        </label>
+        <input
+          class="form-control"
+          id="array.1.text"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+      <button
+        class="mb-3 btn btn-primary"
+        type="button"
+      >
+        Add
+      </button>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders default Array 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <button
+        class="mb-3 btn btn-primary"
+        type="button"
+      >
+        Add
+      </button>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders default Array with JSX as addButton 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <button
+        class="btn btn-primary"
+        type="button"
+      >
+        Add
+      </button>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders default Array with default Array with two text Fields 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <div
+        class="form-group"
+      >
+        <div
+          class="form-group"
+        >
+          <label
+            class="form-label"
+            for="array_parent.0.array_child.0.text_1"
+            id="rbf_array_parent.0.array_child.0.text_1_label"
+          >
+            Text 1
+          </label>
+          <input
+            class="form-control"
+            id="array_parent.0.array_child.0.text_1"
+            type="text"
+            value=""
+          />
+          <div
+            class="invalid-feedback"
+          />
+        </div>
+        <div
+          class="form-group"
+        >
+          <label
+            class="form-label"
+            for="array_parent.0.array_child.0.text_2"
+            id="rbf_array_parent.0.array_child.0.text_2_label"
+          >
+            Text 2
+          </label>
+          <input
+            class="form-control"
+            id="array_parent.0.array_child.0.text_2"
+            type="text"
+            value=""
+          />
+          <div
+            class="invalid-feedback"
+          />
+        </div>
+        <button
+          class="mb-3 btn btn-primary"
+          type="button"
+        >
+          Add
+        </button>
+      </div>
+      <button
+        class="mb-3 btn btn-primary"
+        type="button"
+      >
+        Add
+      </button>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders default Array with false as addButton 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    />
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`renders default Array with two text Fields 1`] = `
+<div>
+  <form
+    class=""
+    novalidate=""
+  >
+    <div
+      class="form-group"
+    >
+      <div
+        class="form-group"
+      >
+        <label
+          class="form-label"
+          for="array.0.text_1"
+          id="rbf_array.0.text_1_label"
+        >
+          Text 1
+        </label>
+        <input
+          class="form-control"
+          id="array.0.text_1"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+      <div
+        class="form-group"
+      >
+        <label
+          class="form-label"
+          for="array.0.text_2"
+          id="rbf_array.0.text_2_label"
+        >
+          Text 2
+        </label>
+        <input
+          class="form-control"
+          id="array.0.text_2"
+          type="text"
+          value=""
+        />
+        <div
+          class="invalid-feedback"
+        />
+      </div>
+      <button
+        class="mb-3 btn btn-primary"
+        type="button"
+      >
+        Add
+      </button>
+    </div>
+    <div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Send
+      </button>
+    </div>
+  </form>
+</div>
+`;
