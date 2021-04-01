@@ -1503,4 +1503,4 @@ Feel free to open issues for bugs and feature requests. Pull request are also mu
 
 ## License
 
-React Bootstrap Form is [MIT licensed](https://github.com/hyperbit-nl/react-bootstrap-select/blob/master/LICENSE).
+React Bootstrap Form is [MIT licensed](https://github.com/hyperbit-nl/react-bootstrap-form/blob/master/LICENSE).
